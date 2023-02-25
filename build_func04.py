@@ -8,5 +8,5 @@ def main(n):
     Returns:
         float: the value of the expression
     """
-    return n/1
+    return int(n)/1
 print(main(4))
